@@ -7,7 +7,7 @@ public class slidingWindowTechnique {
             curr+=arr[i];
         }
         int res=curr;
-        for(int i=k;i<n;i++){
+        for(int i=k;i<arr.length;i++){
             curr+=arr[i]-arr[i-k];
             res=Math.max(res,curr);
         }

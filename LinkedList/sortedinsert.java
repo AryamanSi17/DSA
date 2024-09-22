@@ -5,7 +5,7 @@ public class sortedinsert {
             return temp;
 
         }
-        if(x<head.data){
+        if(data<head.data){
             temp.next=head;
             return temp;
         }

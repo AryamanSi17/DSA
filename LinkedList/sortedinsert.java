@@ -19,3 +19,5 @@ public class sortedinsert {
     }
 
 }
+////////time complexity 
+///theat(n)---time

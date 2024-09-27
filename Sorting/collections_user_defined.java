@@ -1,6 +1,7 @@
 package Sorting;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 class Point implements Comparable<Point>{

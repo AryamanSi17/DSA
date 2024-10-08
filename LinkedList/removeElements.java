@@ -30,5 +30,6 @@ class Solution {
         
         // Return the modified list, skipping the dummy node
         return dummy.next;
+        //use of dummy nodes in program is very important , todayI had high fever so couldnt contribute to another problem
     }
 }

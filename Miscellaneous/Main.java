@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args){
 TwoStacks twoStacks=new TwoStacks(10);
-twoStacks.push1(1);
-        twoStacks.push1(2);
-        twoStacks.push1(3);
+twoStacks.push(1);
+        twoStacks.push(2);
+        twoStacks.push(3);
 
         // Push elements onto stack 2
         twoStacks.push2(10);

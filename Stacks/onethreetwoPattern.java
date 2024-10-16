@@ -5,6 +5,8 @@ public class onethreetwoPattern {
     // leetCode Problem Link -
     String link = "https://leetcode.com/problems/132-pattern/";
 
+    //
+
     public boolean find132pattern(int[] nums) {
         Deque<Integer> stack = new ArrayDeque<>();
         int third = Integer.MIN_VALUE;

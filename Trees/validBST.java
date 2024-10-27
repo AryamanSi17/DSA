@@ -1,3 +1,15 @@
+package Trees;
+
+class Node{
+    int val;
+    Node left;
+    Node right;
+    Node(int val){
+        this.val=val;
+        this.left=null;
+        this.right=null;
+    }
+}
 public class validBST {
     public boolean isValidBST(Node root) {
         return validate(root, Integer.MIN_VALUE, Integer.MAX_VALUE);

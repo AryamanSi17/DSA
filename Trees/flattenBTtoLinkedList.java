@@ -1,3 +1,13 @@
+class TreeNode{
+int val;
+public TreeNode left;
+public TreeNode right;
+TreeNode(int val){
+    this.val=val;
+    this.left=null;
+    this.right=null;
+}
+}
 class Solution {
     public void flatten(TreeNode root) {
         flattenList(root);

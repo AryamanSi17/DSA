@@ -1,5 +1,3 @@
-package Trees;
-
 public class preOrderTraversal {
     void preorder(Node root) {
         if (root != null) {

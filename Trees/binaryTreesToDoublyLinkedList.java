@@ -1,5 +1,3 @@
-package Trees;
-
 public class binaryTreesToDoublyLinkedList {
     Node prev=null;
     Node BTToDLL(Node root){

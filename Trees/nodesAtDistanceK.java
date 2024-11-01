@@ -1,4 +1,4 @@
-package Trees;
+
 
 public class nodesAtDistanceK {
     void printKDist(Node root,int k){

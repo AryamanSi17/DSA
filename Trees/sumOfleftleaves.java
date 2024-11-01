@@ -1,4 +1,4 @@
-public class sumofLeftLeaves {
+public class sumOfleftleaves {
     public int sumOfLeftLeaves(TreeNode root) {
         if(root==null) return 0;
         int sum=0;

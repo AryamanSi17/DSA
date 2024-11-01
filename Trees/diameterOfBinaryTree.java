@@ -1,4 +1,3 @@
-package Trees;
 
 public class diameterOfBinaryTree {
     private int res = 0;

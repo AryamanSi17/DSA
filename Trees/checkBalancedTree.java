@@ -1,5 +1,3 @@
-package Trees;
-
 public class checkBalancedTree {
     int isBalanced(Node root) {
         

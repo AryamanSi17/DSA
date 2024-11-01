@@ -1,5 +1,3 @@
-package Trees;
-
 
 public class symmetricTree {
      public boolean isSymmetric(Node root) {

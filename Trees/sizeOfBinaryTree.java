@@ -1,4 +1,4 @@
-package Trees;
+
 
 public class sizeOfBinaryTree {
     int getSize(Node root){

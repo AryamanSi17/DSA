@@ -1,4 +1,4 @@
-package Trees;
+
 import java.util.*;
 public class printLeftView {
     void printLeftViewTree(Node root){

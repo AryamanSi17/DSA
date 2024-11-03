@@ -38,7 +38,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/dsa-leetcode-questions.git
+git clone https://github.com/AryamanSi17/DSA.git
 cd dsa-leetcode-questions
 Navigate by Topic: Each folder represents a major DSA topic, with questions sorted by difficulty.
 

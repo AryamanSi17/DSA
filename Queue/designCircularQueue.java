@@ -2,7 +2,7 @@ public class designCircularQueue {
     private int[] deque;
     private int capacity, rear, front, size;
 
-    public MyCircularDeque(int k) {
+    public designCircularQueue(int k) {
         this.capacity = k;
         this.front = 0;
         this.rear = -1;
